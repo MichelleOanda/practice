@@ -1,0 +1,18 @@
+00:00:00.592421 VirtualBox GUI VM Selector Window 6.1.32 r149290 win.amd64 (Jan 17 2022 11:29:30) release log
+00:00:00.592423 Log opened 2022-04-12T12:42:52.753221800Z
+00:00:00.592424 Build Type: release
+00:00:00.592428 OS Product: Windows 10
+00:00:00.592429 OS Release: 10.0.19043
+00:00:00.592429 OS Service Pack: 
+00:00:00.607243 DMI Product Name: 81WD
+00:00:00.615453 DMI Product Version: IdeaPad 3 14IIL05
+00:00:00.615483 Firmware type: UEFI
+00:00:00.616272 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.616322 Host RAM: 7934MB (7.7GB) total, 3655MB (3.5GB) available
+00:00:00.616328 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.616329 Process ID: 524
+00:00:00.616329 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.617078 Qt version: 5.6.2
+00:00:00.691526 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.544725 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:48.364707 GUI: UICommon::sltHandleCommitDataRequest: Emergency shutdown initiated

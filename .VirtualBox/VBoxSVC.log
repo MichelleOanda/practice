@@ -1,0 +1,73 @@
+00:00:00.002834 main     VirtualBox COM Server 6.1.32 r149290 win.amd64 (Jan 17 2022 11:29:30) release log
+00:00:00.002836 main     Log opened 2022-04-12T12:42:52.293102200Z
+00:00:00.002837 main     Build Type: release
+00:00:00.002842 main     OS Product: Windows 10
+00:00:00.002844 main     OS Release: 10.0.19043
+00:00:00.002844 main     OS Service Pack: 
+00:00:00.087300 main     DMI Product Name: 81WD
+00:00:00.104386 main     DMI Product Version: IdeaPad 3 14IIL05
+00:00:00.104402 main     Firmware type: UEFI
+00:00:00.105112 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.105133 main     Host RAM: 7934MB (7.7GB) total, 3671MB (3.5GB) available
+00:00:00.105139 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.105140 main     Process ID: 6448
+00:00:00.105140 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.182712          VirtualBox: object creation starts
+00:00:00.182949          Home directory: 'C:\Users\Michelle\.VirtualBox'
+00:00:00.183045          Installed Drivers:
+00:00:00.186101            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 6.1.32.49290)
+00:00:00.186333            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.32.49290)
+00:00:00.186553            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.32.49290)
+00:00:00.186772            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.32.49290)
+00:00:00.187361          Loading settings file "C:\Users\Michelle\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.190126          usbLibGetDevices: Starting USB device enumeration
+00:00:00.212895          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&332ab27&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.213025          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&332ab27&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.216476          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.216549          USB: Unknown USB device detected (idVendor: 0x5986, idProduct: 0x1135)
+00:00:00.216613          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.352910          HostDnsMonitor: initializing
+00:00:00.359774          HostDnsMonitor: updating information
+00:00:00.359796          HostDnsMonitor: old information
+00:00:00.359797            no server entries
+00:00:00.359797            no domain set
+00:00:00.359798            no search string entries
+00:00:00.359798          HostDnsMonitor: new information
+00:00:00.359799            server 1: 192.168.170.51
+00:00:00.359799            server 2: 192.168.170.20
+00:00:00.359800            server 3: 192.168.170.19
+00:00:00.359800            server 4: 192.168.170.35
+00:00:00.359800            domain: strathmore.local
+00:00:00.359801            no search string entries
+00:00:00.398190          VD: VDInit finished with VINF_SUCCESS
+00:00:00.399062          Loading settings file "C:\Users\Michelle\VirtualBox VMs\LAB 1\LAB 1.vbox" with version "1.15-windows"
+00:00:00.400193          VirtualBox: object created
+00:00:02.737640          Saving settings file "C:\Users\Michelle\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.751649          Saving settings file "C:\Users\Michelle\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:14.470953 dns-monitor HostDnsMonitor: updating information
+00:00:14.470994 dns-monitor HostDnsMonitor: unchanged
+00:01:22.737187 dns-monitor HostDnsMonitor: updating information
+00:01:22.737211 dns-monitor HostDnsMonitor: unchanged
+00:01:58.508533 dns-monitor HostDnsMonitor: updating information
+00:01:58.508574 dns-monitor HostDnsMonitor: unchanged
+00:09:07.399438 dns-monitor HostDnsMonitor: updating information
+00:09:07.399481 dns-monitor HostDnsMonitor: unchanged
+00:13:12.620944 dns-monitor HostDnsMonitor: updating information
+00:13:12.620986 dns-monitor HostDnsMonitor: unchanged
+00:30:29.351455 dns-monitor HostDnsMonitor: updating information
+00:30:29.351525 dns-monitor HostDnsMonitor: unchanged
+00:32:10.287156 dns-monitor HostDnsMonitor: updating information
+00:32:10.287203 dns-monitor HostDnsMonitor: unchanged
+00:33:02.736559 dns-monitor HostDnsMonitor: updating information
+00:33:02.736585 dns-monitor HostDnsMonitor: unchanged
+00:35:58.701862 dns-monitor HostDnsMonitor: updating information
+00:35:58.701932 dns-monitor HostDnsMonitor: unchanged
+00:38:11.583990 dns-monitor HostDnsMonitor: updating information
+00:38:11.584013 dns-monitor HostDnsMonitor: unchanged
+00:42:52.728906 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:42:52.744772 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&332ab27&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:42:52.744883 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&332ab27&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:42:52.745197 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:47:48.319710          Saving settings file "C:\Users\Michelle\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:47:48.330984          Saving settings file "C:\Users\Michelle\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:47:48.987422 main     VirtualBox: object deletion starts
